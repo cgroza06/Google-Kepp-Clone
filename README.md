@@ -1,6 +1,6 @@
-# google_keep_clone
+# Google Keep Clone
 
-A new Flutter project.
+A new Flutter project that replicates the functionality of Google Keep. This project includes both web and mobile versions, providing a seamless experience across different platforms.
 
 ## Getting Started
 
